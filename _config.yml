@@ -13,7 +13,7 @@ description: > Rolex Explorer II"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: gulstaad
-github_username:  jek
+github_username:  vikgul
 
 # Build settings
 markdown: kramdown
